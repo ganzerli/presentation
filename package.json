@@ -1,0 +1,15 @@
+{
+  "name": "presentationpage",
+  "version": "1.0.0",
+  "description": "presentation of works and infos about author",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Massimo Ganzerli",
+  "license": "ISC",
+  "deploy": "https://ganzerli.github.io/presentation",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
